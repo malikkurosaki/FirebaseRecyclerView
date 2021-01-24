@@ -122,11 +122,11 @@ final formField = [
 ];
 ```
 
-![gambar 1](./assets/no1.png)
-![gambar 2](./assets/no2.png)
+![gambar 1](../assets/no1.png)
+![gambar 2](../assets/no2.png)
 
 malik kurosaki <malikkurosaki@gmail.com>
 
 
 
-[![wa](./assets/whatsapp.png)]("https://wa.me/+6281338929722)
+[![wa](../assets/whatsapp.png)]("https://wa.me/+6281338929722)

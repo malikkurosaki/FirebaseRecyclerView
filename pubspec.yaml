@@ -1,8 +1,7 @@
 name: hide_keyboard
-description: A new Flutter package project.
+description: hide keyboard after typing.
 version: 0.0.1
-author:
-homepage:
+homepage: https://github.com/malikkurosaki/hide_keyboard
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
